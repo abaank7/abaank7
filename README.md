@@ -1,46 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F7FF,100:7C3AED&height=200&section=header&text=Abaan%20Khan&fontSize=52&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=Abaan+Khan+%F0%9F%94%A5;Leveling+up+as+a+Developer+%F0%9F%8E%AE;DSA+%2B+Flutter+%2B+ML+Grind;New+project+every+week+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=abaank7&label=Visitors&countColor=%2300F7FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00f7ff&height=200&section=header" width="100%"/>
 </p>
 
----
-
-## 🧠 Current Focus
-✅ DSA + Problem Solving  
-✅ Flutter App Development  
-✅ Machine Learning Projects  
-
----
-
-## 🧩 Tools & Tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flutter,django,firebase,postgres,git&theme=dark" />
 </p>
 
----
-
-## 📌 Project Highlights
-- 🏥 **SEVAMed** — AI virtual clinic platform  
-- 🎮 **3D Kendama Game** — physics + gameplay  
-- 🧮 **Math Expression Recognition** — ML + OCR  
-
----
-
-## 📊 Stats + Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abaank7&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abaank7&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=abaank7&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abaank7&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abaank7/abaank7/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/abaank7/abaank7/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
