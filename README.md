@@ -86,84 +86,64 @@ I like projects that have:
 
 ## 🧰 Tech Stack
 
-<p align="center">
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" /><br/>
+<table align="center">
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50"/><br/>
     <sub><b>Python</b></sub>
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" /><br/>
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"/><br/>
     <sub><b>Java</b></sub>
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" /><br/>
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=c&theme=dark" width="50"/><br/>
     <sub><b>C</b></sub>
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" /><br/>
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"/><br/>
     <sub><b>C++</b></sub>
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" /><br/>
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"/><br/>
     <sub><b>JavaScript</b></sub>
-  </div>
+  </td>
+</tr>
 
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" /><br/>
-    <sub><b>HTML</b></sub>
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" /><br/>
-    <sub><b>CSS</b></sub>
-  </div>
-
-</p>
-
-<p align="center">
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" /><br/>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/><br/>
     <sub><b>React</b></sub>
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=django&theme=dark" /><br/>
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=django&theme=dark" width="50"/><br/>
     <sub><b>Django</b></sub>
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" /><br/>
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="50"/><br/>
     <sub><b>Flutter</b></sub>
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" /><br/>
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50"/><br/>
     <sub><b>Firebase</b></sub>
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" /><br/>
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/><br/>
     <sub><b>PostgreSQL</b></sub>
-  </div>
+  </td>
+</tr>
 
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" /><br/>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/><br/>
     <sub><b>Git</b></sub>
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" /><br/>
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/><br/>
     <sub><b>GitHub</b></sub>
-  </div>
-
-</p>
-
+  </td>
+</tr>
+</table>
 
 
 
