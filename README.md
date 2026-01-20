@@ -87,12 +87,83 @@ I like projects that have:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,django,flutter,firebase,postgres,git&theme=dark" />
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" /><br/>
+    <sub><b>Python</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" /><br/>
+    <sub><b>Java</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=c&theme=dark" /><br/>
+    <sub><b>C</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" /><br/>
+    <sub><b>C++</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" /><br/>
+    <sub><b>JavaScript</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" /><br/>
+    <sub><b>HTML</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" /><br/>
+    <sub><b>CSS</b></sub>
+  </div>
+
 </p>
 
 <p align="center">
-  <b>Python </b> • <b>Java </b> • <b>C </b> • <b>C++ </b> • <b>JavaScript </b> • <b>HTML </b> • <b>CSS </b> • <b>React </b> • <b>Django </b> • <b>Flutter </b> • <b>Firebase </b> • <b>PostgreSQL </b> • <b>Git </b>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" /><br/>
+    <sub><b>React</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=django&theme=dark" /><br/>
+    <sub><b>Django</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" /><br/>
+    <sub><b>Flutter</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" /><br/>
+    <sub><b>Firebase</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" /><br/>
+    <sub><b>PostgreSQL</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" /><br/>
+    <sub><b>Git</b></sub>
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" /><br/>
+    <sub><b>GitHub</b></sub>
+  </div>
+
 </p>
+
 
 
 
