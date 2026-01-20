@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=CSE+Student+%7C+Aspiring+Software+Engineer;DSA+%7C+Flutter+%7C+Django+%7C+Machine+Learning;Building+real-world+projects+with+clean+documentation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Abaan+Khan+%7C+CSE+Student;Problem+Solving+%28DSA%29+%7C+App+Dev+%28Flutter%29;Backend+APIs+%28Django%29+%7C+ML+Projects;Focused+on+building+projects+with+real+impact" />
 </p>
+
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=abaank7&label=Visitors&countColor=%2300F7FF" />
