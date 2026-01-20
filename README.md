@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=CSE+Student+%7C+Project-driven+learner;DSA+%7C+Flutter+Apps+%7C+Django+APIs;Machine+Learning+with+strong+pipelines;Consistency+%2B+Clean+code+%2B+Real+impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=CSE+Student+%7C+Project-driven+learner;DSA+%7C+Flutter+Apps+%7C+Django+APIs;Deep+Learning+%7C+Machine+Learning;Consistency+%2B+Clean+code+%2B+Real+impact" />
 </p>
 
 
