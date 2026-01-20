@@ -32,12 +32,6 @@ I’m focused on growing into a strong **Software Engineer** by improving:
 - ✅ **Backend APIs (Django)**
 - ✅ **ML projects with proper pipelines + evaluation**
 
-I like projects that have:
-- clean structure  
-- strong documentation  
-- real user flows  
-- portfolio/interview value 🚀
-
 </td>
 <td width="38%" valign="top">
 
@@ -170,42 +164,40 @@ I like projects that have:
 ---
 
 ## 🏆 Featured Projects
-> *Projects I’m proud of and continuously improving.*
+> *Projects I’ve built (and I’m continuously improving) with clean structure and proper documentation.*
 
-### 🏥 SEVAMed — AI Virtual Clinic Platform
-**Idea:** AI-powered virtual clinic platform integrating appointments + triage + coordination  
-**Stack:** Flutter + Django + Firebase + PostgreSQL  
+---
+
+### 🏥 Expert Clinic — Healthcare Platform (Multi-Role Dashboards)
+**Overview:** A complete healthcare management platform that streamlines appointments, patient handling, and emergency support through role-based dashboards.
+
+**Tech Stack:** Flutter • Django REST Framework • PostgreSQL • Firebase
+
 **Key Features:**
-- Role-based access (Patients / Doctors / Lab Assistants / Pharmacy)
-- Symptom input → possible diseases + doctor suggestion
-- Online/Offline booking flow + optional cab booking
-- Future scope: SOS + GPS routing + better NLP triage
+- Role-based dashboards: **Patient • Doctor • Receptionist • Admin**
+- Appointment booking & management workflow
+- **Cab booking integration** for offline visits
+- **SOS Emergency** support for urgent cases
+- Secure storage & management of **patient medical records**
 
 📌 Repo: *(add your repo link here)*
 
 ---
 
-### 🧮 Automated Math Expression Recognition (No CNN)
-**Idea:** Recognize handwritten digits/operators → convert to text → evaluate expression  
-**Stack:** OpenCV + ML classifiers (SVM/KNN/RandomForest)  
+### 🧮 Automated Recognition & Evaluation of Arithmetic Expressions
+**Overview:** A system that reads handwritten arithmetic expressions from images, recognizes digits/operators, converts them into structured text, and evaluates the final result.
+
+**Tech Stack:** Python • PyTorch (CNN) • OpenCV • Streamlit
+
 **Key Features:**
-- Image preprocessing & segmentation
-- Digit/operator classification
-- Plain-text output (OCR-style)
+- Image preprocessing pipeline for cleaner recognition
+- CNN-based digit/operator classification using **PyTorch**
+- Expression segmentation + recognition using **OpenCV**
+- Interactive UI using **Streamlit** for testing & demos
+- Outputs both **recognized expression** + **computed evaluation result**
 
 📌 Repo: *(add your repo link here)*
 
----
-
-### 🎮 Kendama 3D Game
-**Idea:** Physics-based Kendama game with scoring + tricks  
-**Stack:** Java + jMonkeyEngine  
-**Key Features:**
-- Gravity-based ball physics
-- Cup/spike landing detection
-- Scoring & progression concept
-
-📌 Repo: *(add your repo link here)*
 
 ---
 
