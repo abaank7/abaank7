@@ -164,39 +164,49 @@ I’m focused on growing into a strong **Software Engineer** by improving:
 ---
 
 ## 🏆 Featured Projects
-> *Projects I’ve built (and I’m continuously improving) with clean structure and proper documentation.*
+> *Highlighted projects with real-world workflows, clean structure, and strong documentation.*
 
----
+<br/>
 
-### 🏥 Expert Clinic — Healthcare Platform (Multi-Role Dashboards)
-**Overview:** A complete healthcare management platform that streamlines appointments, patient handling, and emergency support through role-based dashboards.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:** Flutter • Django REST Framework • PostgreSQL • Firebase
+### 🏥 Expert Clinic — Healthcare Platform  
+**Multi-role dashboards + appointments + emergency support**
 
-**Key Features:**
-- Role-based dashboards: **Patient • Doctor • Receptionist • Admin**
-- Appointment booking & management workflow
-- **Cab booking integration** for offline visits
-- **SOS Emergency** support for urgent cases
-- Secure storage & management of **patient medical records**
+✅ **Tech Stack:** Flutter • Django REST • PostgreSQL • Firebase  
 
-📌 Repo: *(add your repo link here)*
+✅ **Core Features:**
+- Role-based dashboards: **Patient / Doctor / Receptionist / Admin**
+- Appointments booking + management workflow
+- **Cab booking** for offline visits
+- **SOS Emergency** support
+- Secure storage of **patient medical records**
 
----
+📌 **Repo:** *(add your repo link here)*
 
-### 🧮 Automated Recognition & Evaluation of Arithmetic Expressions
-**Overview:** A system that reads handwritten arithmetic expressions from images, recognizes digits/operators, converts them into structured text, and evaluates the final result.
+</td>
 
-**Tech Stack:** Python • PyTorch (CNN) • OpenCV • Streamlit
+<td width="50%" valign="top">
 
-**Key Features:**
-- Image preprocessing pipeline for cleaner recognition
-- CNN-based digit/operator classification using **PyTorch**
-- Expression segmentation + recognition using **OpenCV**
-- Interactive UI using **Streamlit** for testing & demos
-- Outputs both **recognized expression** + **computed evaluation result**
+### 🧮 Automated Arithmetic Expression Recognition  
+**Handwritten expression → Text → Evaluation Result**
 
-📌 Repo: *(add your repo link here)*
+✅ **Tech Stack:** Python • PyTorch (CNN) • OpenCV • Streamlit  
+
+✅ **Core Features:**
+- Image **preprocessing pipeline**
+- CNN-based symbol classification using **PyTorch**
+- Expression segmentation + recognition via **OpenCV**
+- Interactive demo UI with **Streamlit**
+- Output: **recognized expression + evaluated answer**
+
+📌 **Repo:** *(add your repo link here)*
+
+</td>
+</tr>
+</table>
 
 
 ---
