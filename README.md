@@ -91,7 +91,7 @@ I like projects that have:
 </p>
 
 <p align="center">
-  <b>Python</b> • <b>Java</b> • <b>C</b> • <b>C++</b> • <b>JavaScript</b> • <b>HTML</b> • <b>CSS</b> • <b>React</b> • <b>Django</b> • <b>Flutter</b> • <b>Firebase</b> • <b>PostgreSQL</b> • <b>Git</b>
+  <b>Python </b> • <b>Java </b> • <b>C </b> • <b>C++ </b> • <b>JavaScript </b> • <b>HTML </b> • <b>CSS </b> • <b>React </b> • <b>Django </b> • <b>Flutter </b> • <b>Firebase </b> • <b>PostgreSQL </b> • <b>Git </b>
 </p>
 
 
