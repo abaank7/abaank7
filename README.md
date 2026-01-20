@@ -13,17 +13,12 @@
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00F7FF?style=flat" />
 </p>
 
----
-
-
-✅ Short, sharp, aesthetic.
 
 ---
 
 # ✅ Option 4: “Skill Cards (Icons + Labels)” (Very Visual)
 Instead of plain bullet points:
 
-```md
 ## 🎯 Current Focus
 
 <p align="center">
