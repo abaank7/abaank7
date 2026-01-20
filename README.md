@@ -233,6 +233,4 @@ I’m focused on growing into a strong **Software Engineer** by improving:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer"/>
-</p>
+
