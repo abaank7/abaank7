@@ -6,7 +6,8 @@
   />
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=200&section=header&text=Abaan%20Khan&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=6366f1&height=200&section=header&text=Abaan%20Khan&fontSize=50&fontColor=ffffff)
+
 
 
 
