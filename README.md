@@ -17,34 +17,16 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20Student-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Flutter%20%7C%20Django-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning%20Style-Building%20Real%20Projects-00F7FF?style=for-the-badge" />
+</p>
 
-### ⚡ Who am I?
-- 🎓 **CSE Student**
-- 💻 Building **real-world projects**
-- 📌 Focused on **clean GitHub + strong fundamentals**
-- 🚀 Learning by doing (not just tutorials)
+<p align="center">
+  <img src="https://img.shields.io/badge/Goal-Clean%20GitHub%20%2B%20Strong%20Portfolio-7C3AED?style=for-the-badge" />
+</p>
 
-### 🎯 Current Focus
-- ✅ **DSA + Problem Solving**
-- ✅ **Flutter App Development**
-- ✅ **Django Backend + APIs**
-- ✅ **Machine Learning (resume-level projects)**
-
-</td>
-<td width="40%" valign="top">
-
-### 🧩 Quick Highlights
-- ✅ Clean folder structure  
-- ✅ Proper README & setup  
-- ✅ Real user flows  
-- ✅ Consistency mindset  
-
-</td>
-</tr>
-</table>
 
 
 ---
