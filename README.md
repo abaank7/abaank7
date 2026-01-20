@@ -1,4 +1,4 @@
-<!-- ===== HERO HEADER ===== -->
+<!-- ===================== HERO HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=230&section=header&text=Abaan%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -13,72 +13,121 @@
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00F7FF?style=flat" />
 </p>
 
+---
+
+## 👋 About Me
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### ⚡ Hey! I'm Abaan Khan
+🎓 **Computer Science (CSE) student** who enjoys building real projects that feel useful — not just toy demos.
+
+I’m focused on growing into a strong **Software Engineer** by improving:
+- ✅ **Problem solving (DSA + logic)**
+- ✅ **App development (Flutter)**
+- ✅ **Backend APIs (Django)**
+- ✅ **ML projects with proper pipelines + evaluation**
+
+I like projects that have:
+- clean structure  
+- strong documentation  
+- real user flows  
+- portfolio/interview value 🚀
+
+</td>
+<td width="38%" valign="top">
+
+### 🚀 Current Focus
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA%20%26%20Problem%20Solving-00F7FF?style=for-the-badge" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter%20App%20Development-7C3AED?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Django%20%26%20REST%20APIs-00F7FF?style=for-the-badge&logo=django&logoColor=black" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Projects-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ✅ Option 4: “Skill Cards (Icons + Labels)” (Very Visual)
-Instead of plain bullet points:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎯 Current Focus
+### 🧩 What I’m good at (and improving)
+- Writing **clean beginner-friendly code**
+- Converting ideas into **working projects**
+- Structuring repos professionally  
+- Learning step-by-step & applying concepts
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA%20%26%20Problem%20Solving-00F7FF?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter%20Apps-7C3AED?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Django%20Backend-00F7FF?style=for-the-badge&logo=django&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
+### 🎯 What I’m aiming for
+- Build a **strong GitHub portfolio**
+- Become excellent at **interview-level problem solving**
+- Create projects that companies respect
+- Improve consistency + discipline 📈
 
-
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack (What I use)
+## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,django,flutter,firebase,postgres,git&theme=dark" />
 </p>
 
 ---
 
-## 🏆 Featured Projects (Pinned & polished)
-> *These are the projects I’d confidently show in interviews.*
+## 🏆 Featured Projects
+> *Projects I’m proud of and continuously improving.*
 
 ### 🏥 SEVAMed — AI Virtual Clinic Platform
-**Idea:** Virtual clinic platform with AI-based triage + appointment system  
+**Idea:** AI-powered virtual clinic platform integrating appointments + triage + coordination  
 **Stack:** Flutter + Django + Firebase + PostgreSQL  
-**Highlights:**
-- Role-based users (Patients / Doctors / Lab / Pharmacy)
-- Symptoms input → possible disease + doctor suggestions
-- Online/Offline appointment flow + optional cab booking
-- SOS + GPS support
+**Key Features:**
+- Role-based access (Patients / Doctors / Lab Assistants / Pharmacy)
+- Symptom input → possible diseases + doctor suggestion
+- Online/Offline booking flow + optional cab booking
+- Future scope: SOS + GPS routing + better NLP triage
 
-📌 Repo: *(add link)*
+📌 Repo: *(add your repo link here)*
 
 ---
 
 ### 🧮 Automated Math Expression Recognition (No CNN)
-**Idea:** Detect digits/operators → convert expression into text → evaluate  
+**Idea:** Recognize handwritten digits/operators → convert to text → evaluate expression  
 **Stack:** OpenCV + ML classifiers (SVM/KNN/RandomForest)  
-**Highlights:**
-- Preprocessing pipeline for handwritten symbols
-- OCR-like segmentation for digits/operators
-- Expression parsing into plain text
+**Key Features:**
+- Image preprocessing & segmentation
+- Digit/operator classification
+- Plain-text output (OCR-style)
 
-📌 Repo: *(add link)*
+📌 Repo: *(add your repo link here)*
 
 ---
 
 ### 🎮 Kendama 3D Game
 **Idea:** Physics-based Kendama game with scoring + tricks  
 **Stack:** Java + jMonkeyEngine  
-**Highlights:**
-- Gravity-based ball motion
-- Cup/spike collision detection
-- Combo scoring + progression idea
+**Key Features:**
+- Gravity-based ball physics
+- Cup/spike landing detection
+- Scoring & progression concept
 
-📌 Repo: *(add link)*
+📌 Repo: *(add your repo link here)*
 
 ---
 
@@ -98,8 +147,16 @@ Instead of plain bullet points:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abaank7/abaank7/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/abaank7/abaank7/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abaank7/abaank7/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/abaank7/abaank7/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abaank7&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
