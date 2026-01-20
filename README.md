@@ -1,6 +1,6 @@
 <!-- ===================== HERO HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=230&section=header&text=Abaan%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=230&section=header&text=Abaan%20Koul&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -92,59 +92,77 @@ I like projects that have:
     <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50"/><br/>
     <sub><b>Python</b></sub>
   </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"/><br/>
-    <sub><b>Java</b></sub>
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" width="50"/><br/>
-    <sub><b>C</b></sub>
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"/><br/>
-    <sub><b>C++</b></sub>
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"/><br/>
-    <sub><b>JavaScript</b></sub>
-  </td>
-</tr>
 
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/><br/>
-    <sub><b>React</b></sub>
-  </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=django&theme=dark" width="50"/><br/>
     <sub><b>Django</b></sub>
   </td>
+
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="50"/><br/>
-    <sub><b>Flutter</b></sub>
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="50"/><br/>
+    <sub><b>PyTorch</b></sub>
   </td>
+
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50"/><br/>
-    <sub><b>Firebase</b></sub>
+    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="50"/><br/>
+    <sub><b>Scikit Learn</b></sub>
   </td>
+
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/><br/>
-    <sub><b>PostgreSQL</b></sub>
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/><br/>
+    <sub><b>React</b></sub>
   </td>
 </tr>
 
 <tr>
   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"/><br/>
+    <sub><b>C++</b></sub>
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="50"/><br/>
+    <sub><b>Flutter</b></sub>
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/><br/>
+    <sub><b>PostgreSQL</b></sub>
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/><br/>
+    <sub><b>HTML</b></sub>
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"/><br/>
+    <sub><b>CSS</b></sub>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"/><br/>
+    <sub><b>JavaScript</b></sub>
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50"/><br/>
+    <sub><b>Firebase</b></sub>
+  </td>
+
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/><br/>
     <sub><b>Git</b></sub>
   </td>
+
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/><br/>
     <sub><b>GitHub</b></sub>
   </td>
 </tr>
 </table>
-
 
 
 ---
