@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/abaank7/count.svg" alt="Visitor's Count" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=abaank7&label=Visitors&countColor=%23263759" />
 </div>
