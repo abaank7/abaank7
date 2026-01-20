@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <p>Visitor count</p>
   <img
     src="https://api.visitorbadge.io/api/visitors?path=abaank7&label=Visitors&countColor=%23263759"
     alt="Visitor count"
   />
-</div>
+</div> -->
 
 <!-- ===================== NEON HEADER ===================== -->
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## ⚡ About Me
 - 🎓 CSE Student  
-- 💻 Focus: **DSA + Flutter + ML**
+- 💻 Focus: **DSA + Flutter + ML + Deep Learning**
 - 🚀 Goal: Build **real-world projects**, not toy ones
 - 🧠 Learning daily + documenting progress
 
@@ -52,20 +52,13 @@
 ---
 
 ## 🚀 Featured Projects
-✅ Here are some projects I'm proud of:
+✅ Here are some Projects :
 
-- 🏥 **SEVAMed** — AI virtual clinic platform (Flutter + Django + Firebase)
-- 🧮 **Math Expression Recognition** — OCR + ML (no CNN)
-- 🎮 **3D Kendama Game** — Physics-based Android game
+- 🏥 **Expert Clinic Platform** —Vvirtual clinic platform (Flutter + Django REST + PostgreSQL + Firebase)
+- 🧮 **Math Expression Recognition and Evaluation** — OCR + CNN + Streamlit
+- 🎮 **3D Kendama Game** — Physics-based Android game (Java + Swing + Android Studio)
 
 📌 *More projects coming soon…*
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abaank7&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
@@ -74,7 +67,7 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:abaankoul31@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
