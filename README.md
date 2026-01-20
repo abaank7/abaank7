@@ -23,7 +23,7 @@
 <tr>
 <td width="62%" valign="top">
 
-### ⚡ Hey! I'm Abaan Khan
+
 🎓 **Computer Science (CSE) student** who enjoys building real projects that feel useful — not just toy demos.
 
 I’m focused on growing into a strong **Software Engineer** by improving:
@@ -223,30 +223,12 @@ I’m focused on growing into a strong **Software Engineer** by improving:
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abaank7/abaank7/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abaank7/abaank7/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/abaank7/abaank7/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abaank7&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:abaankoul31@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
