@@ -15,16 +15,25 @@
 
 ---
 
-## 👋 About Me
+
+✅ Short, sharp, aesthetic.
+
+---
+
+# ✅ Option 4: “Skill Cards (Icons + Labels)” (Very Visual)
+Instead of plain bullet points:
+
+```md
+## 🎯 Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Flutter%20%7C%20Django-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning%20Style-Building%20Real%20Projects-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20%26%20Problem%20Solving-00F7FF?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter%20Apps-7C3AED?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Goal-Clean%20GitHub%20%2B%20Strong%20Portfolio-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django%20Backend-00F7FF?style=for-the-badge&logo=django&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 
