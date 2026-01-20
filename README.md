@@ -85,9 +85,27 @@ I like projects that have:
 ---
 
 ## 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,django,flutter,firebase,postgres,git&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00F7FF?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-7C3AED?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-00F7FF?style=for-the-badge&logo=flutter&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-7C3AED?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-00F7FF?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-00F7FF?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-00F7FF?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
 
 ---
 
