@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=CSE+Student+%7C+Building+Skills+Through+rReal+Projects;Problem+Solving+%28DSA%29+%7C+Flutter+Development;Django+REST+APIs+%7C+Machine+Learning+Projects;Focused+On+Clean+Structure+%26+Strong+Documentation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=CSE+Student+%7C+Project-driven+learner;DSA+%7C+Flutter+Apps+%7C+Django+APIs;Machine+Learning+with+strong+pipelines;Consistency+%2B+Clean+code+%2B+Real+impact" />
 </p>
 
 
