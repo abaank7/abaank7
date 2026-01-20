@@ -15,18 +15,37 @@
 
 ---
 
-## 👋 Quick Intro
-I'm **Abaan**, a **Computer Science student** focused on:
-- ✅ **DSA + Problem Solving**
-- ✅ **App Development with Flutter**
-- ✅ **Backend with Django**
-- ✅ **Machine Learning projects (practical + resume-ready)**
+## 👋 About Me
 
-I love building projects that are:
-- **well-structured**
-- **documented properly**
-- **easy to run**
-- and not just toy demos 🚀
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### ⚡ Who am I?
+- 🎓 **CSE Student**
+- 💻 Building **real-world projects**
+- 📌 Focused on **clean GitHub + strong fundamentals**
+- 🚀 Learning by doing (not just tutorials)
+
+### 🎯 Current Focus
+- ✅ **DSA + Problem Solving**
+- ✅ **Flutter App Development**
+- ✅ **Django Backend + APIs**
+- ✅ **Machine Learning (resume-level projects)**
+
+</td>
+<td width="40%" valign="top">
+
+### 🧩 Quick Highlights
+- ✅ Clean folder structure  
+- ✅ Proper README & setup  
+- ✅ Real user flows  
+- ✅ Consistency mindset  
+
+</td>
+</tr>
+</table>
+
 
 ---
 
