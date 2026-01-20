@@ -5,5 +5,6 @@
     alt="Visitor count"
   />
 </div>
-![Banner](https://raw.githubusercontent.com/abaank7/abaank7/main/software-developer.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Abaan%20Khan&fontSize=45&fontColor=ffffff)
+
 
