@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=abaank7&label=Visitors&countColor=%2300F7FF" />
-  <img src="https://img.shields.io/github/followers/abaank7?style=flat&label=Followers&color=7C3AED" />
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00F7FF?style=flat" />
 </p>
 
