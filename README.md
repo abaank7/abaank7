@@ -183,7 +183,7 @@ I’m focused on growing into a strong **Software Engineer** by improving:
 - **SOS Emergency** support
 - Secure storage of **patient medical records**
 
-📌 **Repo:** *(add your repo link here)*
+📌 **Repo:** 
 
 </td>
 
@@ -201,7 +201,7 @@ I’m focused on growing into a strong **Software Engineer** by improving:
 - Interactive demo UI with **Streamlit**
 - Output: **recognized expression + evaluated answer**
 
-📌 **Repo:** *(add your repo link here)*
+📌 **Repo:**
 
 </td>
 </tr>
