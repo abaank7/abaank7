@@ -44,7 +44,7 @@ I am highly focused on growing into a strong **Software Engineer** by consistent
 
 </td>
 <td width="40%" valign="top">
----
+  
 
 ### 🚀 Current Focus
 <p align="left">
