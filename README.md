@@ -1,17 +1,15 @@
 <!-- ===================== HERO HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=230&section=header&text=Abaan%20Koul&fontSize=52&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=230&section=header&text=Abaan%20Koul&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="Abaan Koul Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=CSE+Student+%7C+Project-driven+learner;DSA+%7C+Flutter+Apps+%7C+Django+APIs;Deep+Learning+%7C+Machine+Learning;Consistency+%2B+Clean+code+%2B+Real+impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=CSE+Student+%7C+Project-driven+learner;DSA+%7C+Flutter+Apps+%7C+Django+APIs;Deep+Learning+%7C+Machine+Learning;Consistency+%2B+Clean+code+%2B+Real+impact" alt="Typing SVG" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=abaank7&label=Visitors&countColor=%2300F7FF" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00F7FF?style=flat" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=abaank7&label=Visitors&countColor=%2300F7FF" alt="Visitors" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00F7FF?style=flat" alt="Status" />
 </p>
 
 ---
@@ -20,32 +18,31 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
+🎓 **Computer Science (CSE) Student** who enjoys building real projects that solve actual problems—not just toy demos.
 
-🎓 **Computer Science (CSE) student** who enjoys building real projects that feel useful — not just toy demos.
-
-I’m focused on growing into a strong **Software Engineer** by improving:
-- ✅ **Problem solving (DSA + logic)**
-- ✅ **App development (Flutter)**
-- ✅ **Backend APIs (Django)**
-- ✅ **ML projects with proper pipelines + evaluation**
+I am highly focused on growing into a strong **Software Engineer** by consistently improving in:
+- ✅ **Problem Solving:** Data Structures & Algorithms
+- ✅ **Frontend & Mobile:** Cross-platform app development with Flutter
+- ✅ **Backend:** Robust REST APIs using Django
+- ✅ **Machine Learning:** Building complete ML pipelines with proper evaluation
 
 </td>
-<td width="38%" valign="top">
+<td width="40%" valign="top">
 
 ### 🚀 Current Focus
 <p align="left">
-  <img src="https://img.shields.io/badge/DSA%20%26%20Problem%20Solving-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20%26%20Problem%20Solving-00F7FF?style=for-the-badge" alt="DSA" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter%20App%20Development-7C3AED?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter%20App%20Development-7C3AED?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Django%20%26%20REST%20APIs-00F7FF?style=for-the-badge&logo=django&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django%20%26%20REST%20APIs-00F7FF?style=for-the-badge&logo=django&logoColor=black" alt="Django" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Projects-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Projects-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 </p>
 
 </td>
@@ -54,24 +51,26 @@ I’m focused on growing into a strong **Software Engineer** by improving:
 
 ---
 
+## 🎯 Goals & Strengths
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 What I’m good at (and improving)
-- Writing **clean beginner-friendly code**
-- Converting ideas into **working projects**
-- Structuring repos professionally  
-- Learning step-by-step & applying concepts
+### 🧩 What I’m Good At (And Improving)
+- Writing **clean, maintainable code**
+- Converting rough ideas into **working, scalable projects**
+- Structuring repositories professionally
+- Learning step-by-step and applying concepts practically
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 What I’m aiming for
-- Build a **strong GitHub portfolio**
-- Become excellent at **interview-level problem solving**
-- Create projects that companies respect
-- Improve consistency + discipline 📈
+### 🎯 What I’m Aiming For
+- Building a **standout GitHub portfolio**
+- Excelling at **interview-level problem solving**
+- Creating impactful projects that tech companies respect
+- Improving daily consistency and discipline 📈
 
 </td>
 </tr>
@@ -81,91 +80,25 @@ I’m focused on growing into a strong **Software Engineer** by improving:
 
 ## 🧰 Tech Stack
 
-<table align="center">
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50"/><br/>
-    <sub><b>Python</b></sub>
-  </td>
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Languages" />
+</p>
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=django&theme=dark" width="50"/><br/>
-    <sub><b>Django</b></sub>
-  </td>
+<h4 align="center">Frameworks & Libraries</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,django,react,pytorch,sklearn&theme=dark" alt="Frameworks" />
+</p>
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="50"/><br/>
-    <sub><b>PyTorch</b></sub>
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="50"/><br/>
-    <sub><b>Scikit Learn</b></sub>
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/><br/>
-    <sub><b>React</b></sub>
-  </td>
-</tr>
-
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"/><br/>
-    <sub><b>C++</b></sub>
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="50"/><br/>
-    <sub><b>Flutter</b></sub>
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/><br/>
-    <sub><b>PostgreSQL</b></sub>
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/><br/>
-    <sub><b>HTML</b></sub>
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"/><br/>
-    <sub><b>CSS</b></sub>
-  </td>
-</tr>
-
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"/><br/>
-    <sub><b>JavaScript</b></sub>
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50"/><br/>
-    <sub><b>Firebase</b></sub>
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/><br/>
-    <sub><b>Git</b></sub>
-  </td>
-
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/><br/>
-    <sub><b>GitHub</b></sub>
-  </td>
-</tr>
-</table>
-
+<h4 align="center">Databases & Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,firebase,git,github&theme=dark" alt="Tools" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
-> *Highlighted projects with real-world workflows, clean structure, and strong documentation.*
-
-<br/>
+> *Highlighted projects featuring real-world workflows, clean structure, and strong documentation.*
 
 <table>
 <tr>
@@ -178,12 +111,12 @@ I’m focused on growing into a strong **Software Engineer** by improving:
 
 ✅ **Core Features:**
 - Role-based dashboards: **Patient / Doctor / Receptionist / Admin**
-- Appointments booking + management workflow
-- **Cab booking** for offline visits
-- **SOS Emergency** support
+- Complete appointment booking and management workflow
+- **Cab booking** integration for offline visits
+- **SOS Emergency** support capabilities
 - Secure storage of **patient medical records**
 
-📌 **Repo:** 
+📌 **Repo:** [View Source Code Here](#) 
 
 </td>
 
@@ -195,41 +128,40 @@ I’m focused on growing into a strong **Software Engineer** by improving:
 ✅ **Tech Stack:** Python • PyTorch (CNN) • OpenCV • Streamlit  
 
 ✅ **Core Features:**
-- Image **preprocessing pipeline**
-- CNN-based symbol classification using **PyTorch**
-- Expression segmentation + recognition via **OpenCV**
-- Interactive demo UI with **Streamlit**
-- Output: **recognized expression + evaluated answer**
+- Custom image **preprocessing pipeline**
+- CNN-based mathematical symbol classification using **PyTorch**
+- Expression segmentation and recognition via **OpenCV**
+- Interactive demo UI built with **Streamlit**
+- Direct output: **recognized expression + evaluated answer**
 
-📌 **Repo:**
+📌 **Repo:** [View Source Code Here](#)
 
 </td>
 </tr>
 </table>
 
-
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abaank7&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=abaank7&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abaank7&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=abaank7&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abaank7&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abaank7&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:abaankoul31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-
