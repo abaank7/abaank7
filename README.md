@@ -25,6 +25,7 @@
   </a>
 </p>
 
+---
 
 
 ## 👋 About Me
@@ -43,6 +44,7 @@ I am highly focused on growing into a strong **Software Engineer** by consistent
 
 </td>
 <td width="40%" valign="top">
+---
 
 ### 🚀 Current Focus
 <p align="left">
@@ -57,13 +59,6 @@ I am highly focused on growing into a strong **Software Engineer** by consistent
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning%20Projects-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 </p>
-
-</td>
-</tr>
-</table>
-
----
-
 
 </td>
 </tr>
@@ -87,12 +82,5 @@ I am highly focused on growing into a strong **Software Engineer** by consistent
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,firebase,git,github&theme=dark" alt="Tools" />
 </p>
-
----
-
-
-</td>
-</tr>
-</table>
 
 ---
