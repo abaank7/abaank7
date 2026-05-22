@@ -14,6 +14,19 @@
 
 ---
 
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abaankoul31@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+
+
 ## 👋 About Me
 
 <table>
@@ -97,13 +110,4 @@ I am highly focused on growing into a strong **Software Engineer** by consistent
 
 ---
 
-## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abaankoul31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
