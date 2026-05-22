@@ -96,25 +96,3 @@ I am highly focused on growing into a strong **Software Engineer** by consistent
 </table>
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=abaank7&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
-  <img src="https://streak-stats.demolab.com?user=abaank7&theme=tokyonight&hide_border=true" height="160"/>
-
-</p>
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abaank7&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</p>
-
-
-
----
