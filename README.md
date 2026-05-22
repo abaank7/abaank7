@@ -51,26 +51,6 @@ I am highly focused on growing into a strong **Software Engineer** by consistent
 
 ---
 
-## 🎯 Goals & Strengths
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 What I’m Good At (And Improving)
-- Writing **clean, maintainable code**
-- Converting rough ideas into **working, scalable projects**
-- Structuring repositories professionally
-- Learning step-by-step and applying concepts practically
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 What I’m Aiming For
-- Building a **standout GitHub portfolio**
-- Excelling at **interview-level problem solving**
-- Creating impactful projects that tech companies respect
-- Improving daily consistency and discipline 📈
 
 </td>
 </tr>
@@ -97,44 +77,6 @@ I am highly focused on growing into a strong **Software Engineer** by consistent
 
 ---
 
-## 🏆 Featured Projects
-> *Highlighted projects featuring real-world workflows, clean structure, and strong documentation.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Expert Clinic — Healthcare Platform  
-**Multi-role dashboards + appointments + emergency support**
-
-✅ **Tech Stack:** Flutter • Django REST • PostgreSQL • Firebase  
-
-✅ **Core Features:**
-- Role-based dashboards: **Patient / Doctor / Receptionist / Admin**
-- Complete appointment booking and management workflow
-- **Cab booking** integration for offline visits
-- **SOS Emergency** support capabilities
-- Secure storage of **patient medical records**
-
-📌 **Repo:** [View Source Code Here](#) 
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧮 Automated Arithmetic Expression Recognition  
-**Handwritten expression → Text → Evaluation Result**
-
-✅ **Tech Stack:** Python • PyTorch (CNN) • OpenCV • Streamlit  
-
-✅ **Core Features:**
-- Custom image **preprocessing pipeline**
-- CNN-based mathematical symbol classification using **PyTorch**
-- Expression segmentation and recognition via **OpenCV**
-- Interactive demo UI built with **Streamlit**
-- Direct output: **recognized expression + evaluated answer**
-
-📌 **Repo:** [View Source Code Here](#)
 
 </td>
 </tr>
