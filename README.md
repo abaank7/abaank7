@@ -27,27 +27,7 @@
 
 ---
 
-
-<!-- <table>
-<tr>
-<td width="60%" valign="top">
-
-🎓 **Computer Science (CSE) Student** who enjoys building real projects that solve actual problems—not just toy demos.
-
-I am highly focused on growing into a strong **Software Engineer** by consistently improving in:
-- ✅ **Problem Solving:** Data Structures & Algorithms
-- ✅ **Frontend & Mobile:** Cross-platform app development with Flutter
-- ✅ **Backend:** Robust REST APIs using Django
-- ✅ **Machine Learning:** Building complete ML pipelines with proper evaluation
-
-</td>
-<td width="40%" valign="top">
-   -->
 ## 👋 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 🎓 **Final-Year CSE Student** (Graduating Aug 2026) who values learning in public and building systems that solve actual problems—not just toy demos.
 
@@ -56,20 +36,8 @@ I am highly focused on growing into a strong, versatile **Software Engineer** by
 - 💻 **Full-Stack & Mobile:** Architecting robust backends with **Django & PostgreSQL** and building seamless cross-platform apps with **Flutter**. (Currently developing a full-scale healthcare ERP platform).
 - 🤖 **Machine Learning & Systems:** Experimenting with deep learning (CNNs/Transformers), local RAG engines, and tackling Kaggle challenges.
 
-</td>
-<td width="40%" valign="top">
-
-<!-- Replace YOUR_USERNAME with your actual GitHub handle, or swap this out for a clean profile picture -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abaank7&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&v=1" alt="GitHub Stats" />
-</div>
-
-</td>
-</tr>
-</table>
-   
-
 ### 🚀 Current Focus
+
 <p align="left">
   <img src="https://img.shields.io/badge/DSA%20%26%20Problem%20Solving-00F7FF?style=for-the-badge" alt="DSA" />
 </p>
@@ -82,10 +50,6 @@ I am highly focused on growing into a strong, versatile **Software Engineer** by
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning%20Projects-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
