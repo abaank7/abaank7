@@ -28,9 +28,7 @@
 ---
 
 
-## 👋 About Me
-
-<table>
+<!-- <table>
 <tr>
 <td width="60%" valign="top">
 
@@ -44,7 +42,32 @@ I am highly focused on growing into a strong **Software Engineer** by consistent
 
 </td>
 <td width="40%" valign="top">
-  
+   -->
+## 👋 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+🎓 **Final-Year CSE Student** (Graduating Aug 2026) who values learning in public and building systems that solve actual problems—not just toy demos.
+
+I am highly focused on growing into a strong, versatile **Software Engineer** by consistently building and improving in:
+- 🧠 **Problem Solving:** Deepening my DSA knowledge and competing in **C++** (Codeforces, LeetCode).
+- 💻 **Full-Stack & Mobile:** Architecting robust backends with **Django & PostgreSQL** and building seamless cross-platform apps with **Flutter**. (Currently developing a full-scale healthcare ERP platform).
+- 🤖 **Machine Learning & Systems:** Experimenting with deep learning (CNNs/Transformers), local RAG engines, and tackling Kaggle challenges.
+
+</td>
+<td width="40%" valign="top">
+
+<!-- Replace YOUR_USERNAME with your actual GitHub handle, or swap this out for a clean profile picture -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" />
+</div>
+
+</td>
+</tr>
+</table>
+   
 
 ### 🚀 Current Focus
 <p align="left">
