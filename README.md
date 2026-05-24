@@ -40,14 +40,8 @@ I am highly focused on growing into a strong, versatile **Software Engineer** by
 
 <p align="left">
   <img src="https://img.shields.io/badge/DSA%20%26%20Problem%20Solving-00F7FF?style=for-the-badge" alt="DSA" />
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/Flutter%20App%20Development-7C3AED?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/Django%20%26%20REST%20APIs-00F7FF?style=for-the-badge&logo=django&logoColor=black" alt="Django" />
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning%20Projects-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 </p>
 
