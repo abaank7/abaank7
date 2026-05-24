@@ -61,7 +61,7 @@ I am highly focused on growing into a strong, versatile **Software Engineer** by
 
 <!-- Replace YOUR_USERNAME with your actual GitHub handle, or swap this out for a clean profile picture -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abaank7&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abaank7&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&v=1" alt="GitHub Stats" />
 </div>
 
 </td>
