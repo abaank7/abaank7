@@ -17,7 +17,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+  <a href="www.linkedin.com/in/abaan-koul-12a441250">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:abaankoul31@gmail.com">
